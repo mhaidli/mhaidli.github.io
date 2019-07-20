@@ -6,18 +6,18 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Abraham Mhaidli
+  avatar: mhaidli_photo_7.20.19.jpg
+  bio: 
+  email: mhaidli@umich.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: mhaidli #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
-  google:
+  google: 
     plus: #username
     analytics:
     verify:
@@ -34,7 +34,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: user-289168637 #username
   weibo: #username
   flickr: #username
   codepen: #username
