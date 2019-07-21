@@ -3,12 +3,17 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Liorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a PhD student studying information sciences at University of Michigan's School of Information. My research interests lie in the intersection of
+technology, society, and privacy. I am particularly interested in studying advertising in
+technological contexts, to both understand how they are being used and the role they play
+in technological ecosystems, as well as understanding the challenges they might pose -- e.g., when everyone has a VR headset, what does advertising look like and what are the ethical issues that arise?
 
-## Current Interests and Projects:
+Outside of research, I enjoy rapping, playing and watching soccer, activism, and playing videogames. 
+
+<!-- ## Current Interests and Projects:
 
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - DLorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet -->

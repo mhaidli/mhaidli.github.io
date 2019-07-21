@@ -7,9 +7,10 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013 - 2017`
+__Grinnell College__
+BA in Computer Science
+Minor in Neuroscience
 
 `1995 - 1997`
 __University Name__
@@ -31,6 +32,11 @@ Article Title, Journal Title
 
 `1994`
 Article Title, Journal Title
+
+`2019`
+[__It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard__](https://dl.acm.org/citation.cfm?doid=3290605.3300824)<br/> 
+(Kaiwen Sun, Abraham Mhaidli, Sonakshi Watel, Christopher A Brooks, Florian Schaub)<br/>
+CHI
 
 ### Books
 
