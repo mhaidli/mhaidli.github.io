@@ -34,9 +34,27 @@ Article Title, Journal Title
 Article Title, Journal Title
 
 `2019`
-[__It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard__](https://dl.acm.org/citation.cfm?doid=3290605.3300824)<br/> 
-(Kaiwen Sun, Abraham Mhaidli, Sonakshi Watel, Christopher A Brooks, Florian Schaub)<br/>
-CHI
+[It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard](https://dl.acm.org/citation.cfm?doid=3290605.3300824) *(Kaiwen Sun, Abraham Mhaidli, Sonakshi Watel, Christopher A Brooks, Florian Schaub)* Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
+
+
+* [__It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard__](https://dl.acm.org/citation.cfm?doid=3290605.3300824) *(Kaiwen Sun, Abraham Mhaidli, Sonakshi Watel, Christopher A Brooks, Florian Schaub)* Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+
+
+`2019`
+[__“I’ve Got Nothing to Lose”: Consumers’ Risk Perceptions and Protective Actions after
+the Equifax Data Breach__](https://www.usenix.org/conference/soups2018/presentation/zou)<br/>
+(Yixin Zou, Abraham Mhaidli, Austin McCall, Florian Schaub)
+Fourteenth Symposium on Usable Privacy and Security (SOUPS)
+
+[__Keeping a Low Profile? Technology, Risk and Privacy among Undocumented Immigrants__](https://dl.acm.org/citation.cfm?id=3173688)<br/>
+(Tamy Guberek, Allison McDonald, Sylvia Simioni, Abraham Mhaidli, Kentaro Toyama,
+Florian Schaub) Proceedings of the 2018 CHI Conference on Human Factors in Computing
+Systems (CHI)
+
+[__Energy profiling with Alpaca__](https://dl.acm.org/citation.cfm?id=2998548)<br/>(Logan Goldberg, Joel Katticaran, Abraham Mhaidli) In
+Companion Proceedings of the 2016 ACM SIGPLAN International Conference on Systems,
+Programming, Languages and Applications: Software for Humanity (SPLASH)
+
 
 ### Books
 
