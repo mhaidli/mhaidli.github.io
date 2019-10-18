@@ -1,10 +1,10 @@
 ---
 layout: page
 excerpt: "About Me..."
+title: Who am I?
 ---
 
 
-## Who am I?
 
 Hello! My name is Abraham Mhaidli. I am a PhD student studying information sciences at University of Michigan's School of Information. My research interests lie in the intersection of
 technology, society, and privacy. I am particularly interested in studying advertising in
