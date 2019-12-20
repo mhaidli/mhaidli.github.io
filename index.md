@@ -13,5 +13,7 @@ in technological ecosystems, as well as understanding the challenges they might 
 
 ## Latest Updates
 
-- Started my 3rd year at University of Michigan.
-- Finished my summer UX research internship at Facebook
+{% for update in site.data.updates %}
+- {{update.update}}				    
+{% endfor %}
+
