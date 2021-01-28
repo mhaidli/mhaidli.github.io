@@ -31,6 +31,10 @@
       <article>
         <h2><a href="{{ post.weblink }}">{{ post.title }}</a></h2>
         <p>({{post.authors}}), {{post.venue}}
+        {% if post.localpdf %}
+        <br>
+        <u><a href="{{ post.localpdf }}">PDF</a></u>
+        {% endif %}
       </article>
     {% endfor %}
   </div><!-- /#index -->
