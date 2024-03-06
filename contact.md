@@ -1,8 +1,0 @@
----
-layout: page
-excerpt: "About Me..."
-title: Contact
----
-
-
-The easiest way to contact me is through email. Feel free to shoot me an email at abraham dot mhaidli at mpi-sp dot org. I will answer as soon as I can.

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <title>Shockvertising, Malware, and a Lack of Accountability: Exploring Consumer Risks of Virtual Reality Advertisements and Marketing Experiences | Abraham Mhaidli</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+    <header>
+
+  <nav>
+    <ul>
+      
+      
+      <li class="pull-left ">
+        <a href="https://example.org/">~/abraham mhaidli</a>
+      </li>
+
+      
+
+      
+      
+      
+      <li class="pull-right ">
+        <a href="/contact">~/contact</a>
+      </li>
+      
+      
+      <li class="pull-right current">
+        <a href="/publications">~/publications</a>
+      </li>
+      
+      
+      <li class="pull-right ">
+        <a href="/workingwithabraham">~/working with me</a>
+      </li>
+      
+
+
+
+
+
+
+      
+     
+
+      
+
+    </ul>
+  </nav>
+</header>
+
+
+
+
+    
+  
+  </head>
+
+  <body>
+    <br/>
+
+<div class="article-meta">
+
+<p style="text-align:left;"><b>Shockvertising, Malware, and a Lack of Accountability: Exploring Consumer Risks of Virtual Reality Advertisements and Marketing Experiences</b></p> 
+<p style="text-align:left;">Abraham Mhaidli, Shwetha Rajaram, Selin Fidan, Gina Herakovic, Florian Schaub, IEEE Security &amp; Privacy, vol. 22, no. 1, pp. 43-52. 2024.</p>
+
+<p style="text-align:left;">Weblink: <a href="https://doi.org/10.1109/MSEC.2023.3332105">https://doi.org/10.1109/MSEC.2023.3332105</a></p>
+
+
+<p style="text-align:left;">PDF: <a href="/papers/VRME_study.pdf">/papers/VRME_study.pdf</a></p>
+
+
+
+</div>
+
+
+
+
+<div class="content-wrapper">
+  
+<p style="text-align:left;"><i>Last Updated: March 6 2024.</a></i></p>
+
+  <main>
+    <div style="font-size: 0.9em">
+    <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><em>This is a high level summary of the paper. It is deliberately informal, casual, and only talks about the high level points from the paper. For full details about the study, please refer to the full paper, which can be found <a href="/papers/VRME_study.pdf">here</a>.</em></p>
+<h3 id="motivation-of-study">Motivation of Study</h3>
+<p>The goal of this study was to get a better understanding of how VR ads could be harmful. There has already been work studying and thinking about VR advertising and how they can hurt users (incluing some of <a href="/publications/2021-01-01-identifyingmanipulativeadvertisinginxr/">my own work</a>). Possible harms include privacy risks, manipulation, physical harms, and more. But VR ads are relatively rare, meaning that a lot of this prior work has been speculating about what <em>could</em> happen rather than observing what <em>is</em> happening.
+Slowly but surely, however, VR advertising is expanding. And to the extent it is expanding, we do not have a good sense of what the state of VR advertising is like, and how they care or could be harmful towards people.</p>
+<p>That is what this study sought to investigate. In short, we asked (1) what do VR ads look like? and (2) what are the harms they pose for users?
+We did this by analyzing existing VR ads and noting down the harms and risks they posed for consumers. We then extrapolate based on these findings to understand how these harms might evolve as the VR advertising ecosystem matures and evolves.</p>
+<h3 id="step-1-find-vr-ads">Step 1: Find VR Ads</h3>
+<p>To analyze VR ads, we first had to find them. This proved to be a lot tougher than expected. Unfortunately, there is no neat search term one can use, or a simple directory where one can find them. We had to examine every VR application on both the Steam store and Oculus store to see. And by every application, I do mean every application &ndash; collectively, we reviewed over 8,000 VR apps to see if they were ads. We then isolated 87 VR ads from these VR apps.
+We note that these are standalone VR ads (which we termed &ldquo;VR Marketing Experiences&rdquo;) &ndash; for example, apps like this <a href="https://store.steampowered.com/app/447270/IKEA_VR_Experience/">Ikea VR experience</a>. We also searched for in-app advertisements, but an initial examination found that in-app VR advertisements were surprisingly rare. Thus, our study focused on standalone VR advertisements.</p>
+<h3 id="step-2-analyzing-the-ads">Step 2: Analyzing the ads</h3>
+<p>To analyze these apps, we used a walkthrough approach: basically play through the VR ad from start to finish and noted down features about the ad (for example, what was the ad advertising? What interaction techniques were present?), potential harms, and any interesting features we observed about the ad. We had an analysis sheet (serving almost like a checklist) with things to watch out for and to take notes.</p>
+<h3 id="step-3-the-findings">Step 3: The Findings</h3>
+<p>We identified multiple risks and harms that VR ads can pose for users. These include:</p>
+<ul>
+<li>A lack of clarity over data practices. Many VR ads did npt have privacy policies, nor did they describe their data collection pratcies. As such, we were unsure of what data was being collected, and what it was used for.</li>
+<li>Weblinks opening without user content depending on their position. Thus, when a user was walking around a VR ad, a webpage would randomly open if the user stepped on a specific spot, without the user knowing or being aware of it. In these cases the weblinks were fairly benign (webpages to book tourist trips), but one can imagine more evolved ads opening links towards harmful webpages, such as those that serve malware.</li>
+<li>A lack of appropiate exit options that allow users to safely and quickly exit VR ads. This is particularly problematic in VR, where looking away from an ad is complicated by the bulky nature of VR headsets and the 360 nature of virtual worlds and virtual advertisements.</li>
+<li>Shocking and graphic ads that can cause emotional distress in users, (e.g., ads for horror movies that involve the user being chased or dying, ads that show disgusting content, etc.) While this type of &lsquo;shockvertising&rsquo; is not unique to VR, the immersiveness of VR, coupled with the difficulty to escape VR situations, make these types of ads more disturbing.</li>
+<li>Physical exertion from ads. Unlike non-VR ads (where most of the content is consumed passively), VR ads can involve several degrees of physical movement. There may be instances where a user is unable to perform these physical movements, or those movements cause physical injuries (e.g., because the movements are too strenous)</li>
+</ul>
+<p>I summarize these harms below:</p>
+<p><img src="/images/vrme-harms-summarized.png" alt="Alt text"></p>
+<p>Top-left: Shockvertising—VR ads may display distressing content to users. In this case, to make users fearful of competitors’ products, a VR ad may have users experience dying in a car
+crash to highlight the safety features of their own product.</p>
+<p>Top-right: Interactive VR ads may require intense physical movements
+to complete and finish the advertising—physical movements that could injure a user or which the user is unable to carry out.</p>
+<p>Bottom-left: VR advertisements may use proxemic interactions to open weblinks. Malicious VR ads may distract users with
+content (e.g., chasing butterflies or some animated object) to make them unaware of their interactions with their environment.</p>
+<p>Bottom-right: VR ads can collect biometric data from users and use it to target advertising. Without clear requirements for
+disclosure, what information is being collected by VR advertisers and how that information is being used will be hidden from
+the user, who may object to their data being leveraged for advertising purposes.</p>
+<h3 id="step-4-implications----why-do-our-findings-matter">Step 4: Implications &ndash; Why do our findings matter?</h3>
+<p>Perhaps the main takeaway from our paper is that we draw attention to the issue of shockvertising in VR. When talking about the harms of VR advertising, it seems most people focus on two key harms: privacy risks and manipulation. However, we find that a third harm needs to be considered: that of emotional and physical harms /  distress.</p>
+<p>Our results points to the need for guidelines (and enforcement) regarding what can and cannot be advertised through VR. Without these guidelines, people will make all types of VR advertisements. Ads for horror movies where the user experiences death; ads that force the user to carry out controversial tasks; and more. Not all of these ads will start with malicious intent; but the end results of shocking and graphic content distressing the users will still be the same.
+Yes, we know there are already guidelines that exist for acceptable and unacceptable advertising in non-VR. However, it is not enough to copy paste these guidelines into a VR world. Instead, guidelines should take into account the uniqueness of VR (including the high levels of immersion; difficulty escaping the ad; and the fact that one lives through the ad rather than watch it passively) and be updated.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+
+  </div>
+    <a href="/"> >> Home</a>
+  </main>
+</div>
+    <footer>
+      
+<script>
+(function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+</script>
+
+      
+    </footer>
+  </body>
+</html>
+
