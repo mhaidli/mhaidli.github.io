@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Abraham Mhaidli</title>
-    <link>https://example.org/tags/</link>
+    <link>https://mhaidli.github.io/tags/</link>
     <description>Recent content in Tags on Abraham Mhaidli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mhaidli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>publication</title>
-      <link>https://example.org/tags/publication/</link>
+      <link>https://mhaidli.github.io/tags/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/publication/</guid>
+      <guid>https://mhaidli.github.io/tags/publication/</guid>
       <description></description>
     </item>
   </channel>

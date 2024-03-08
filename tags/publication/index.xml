@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>publication on Abraham Mhaidli</title>
-    <link>https://example.org/tags/publication/</link>
+    <link>https://mhaidli.github.io/tags/publication/</link>
     <description>Recent content in publication on Abraham Mhaidli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mhaidli.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>“I’ve Got Nothing to Lose”&amp;#58; Consumers’ Risk Perceptions and Protective Actions after the Equifax Data Breach</title>
-      <link>https://example.org/publications/2018-05-05-ivegotnothingtohide/</link>
+      <link>https://mhaidli.github.io/publications/2018-05-05-ivegotnothingtohide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2018-05-05-ivegotnothingtohide/</guid>
+      <guid>https://mhaidli.github.io/publications/2018-05-05-ivegotnothingtohide/</guid>
       <description></description>
     </item>
     <item>
       <title>Energy Profiling with Alpaca</title>
-      <link>https://example.org/publications/2016-05-05-energyprofilingalpaca/</link>
+      <link>https://mhaidli.github.io/publications/2016-05-05-energyprofilingalpaca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2016-05-05-energyprofilingalpaca/</guid>
+      <guid>https://mhaidli.github.io/publications/2016-05-05-energyprofilingalpaca/</guid>
       <description></description>
     </item>
     <item>
       <title>Identifying Manipulative Advertising Techniques in XR Through Scenario Construction</title>
-      <link>https://example.org/publications/2021-01-01-identifyingmanipulativeadvertisinginxr/</link>
+      <link>https://mhaidli.github.io/publications/2021-01-01-identifyingmanipulativeadvertisinginxr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2021-01-01-identifyingmanipulativeadvertisinginxr/</guid>
+      <guid>https://mhaidli.github.io/publications/2021-01-01-identifyingmanipulativeadvertisinginxr/</guid>
       <description></description>
     </item>
     <item>
       <title>It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard</title>
-      <link>https://example.org/publications/2019-05-05-itsmydata/</link>
+      <link>https://mhaidli.github.io/publications/2019-05-05-itsmydata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2019-05-05-itsmydata/</guid>
+      <guid>https://mhaidli.github.io/publications/2019-05-05-itsmydata/</guid>
       <description></description>
     </item>
     <item>
       <title>Keeping a Low Profile? Technology, Risk and Privacy among Undocumented Immigrants</title>
-      <link>https://example.org/publications/2018-05-05-keepinglowprofile/</link>
+      <link>https://mhaidli.github.io/publications/2018-05-05-keepinglowprofile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2018-05-05-keepinglowprofile/</guid>
+      <guid>https://mhaidli.github.io/publications/2018-05-05-keepinglowprofile/</guid>
       <description></description>
     </item>
     <item>
       <title>Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls</title>
-      <link>https://example.org/publications/2020-01-01-interpersonalprivacycontrolssmartspeakers/</link>
+      <link>https://mhaidli.github.io/publications/2020-01-01-interpersonalprivacycontrolssmartspeakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2020-01-01-interpersonalprivacycontrolssmartspeakers/</guid>
+      <guid>https://mhaidli.github.io/publications/2020-01-01-interpersonalprivacycontrolssmartspeakers/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy Impact Assessments for Digital Repositories</title>
-      <link>https://example.org/publications/2022-05-01-privacyimpactassessmentsfordigitalrepositories/</link>
+      <link>https://mhaidli.github.io/publications/2022-05-01-privacyimpactassessmentsfordigitalrepositories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2022-05-01-privacyimpactassessmentsfordigitalrepositories/</guid>
+      <guid>https://mhaidli.github.io/publications/2022-05-01-privacyimpactassessmentsfordigitalrepositories/</guid>
       <description></description>
     </item>
     <item>
       <title>Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities</title>
-      <link>https://example.org/publications/2023-07-09-researcherneedspaper/</link>
+      <link>https://mhaidli.github.io/publications/2023-07-09-researcherneedspaper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2023-07-09-researcherneedspaper/</guid>
+      <guid>https://mhaidli.github.io/publications/2023-07-09-researcherneedspaper/</guid>
       <description></description>
     </item>
     <item>
       <title>Shockvertising, Malware, and a Lack of Accountability: Exploring Consumer Risks of Virtual Reality Advertisements and Marketing Experiences</title>
-      <link>https://example.org/publications/2024-01-01-vrmepaper/</link>
+      <link>https://mhaidli.github.io/publications/2024-01-01-vrmepaper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2024-01-01-vrmepaper/</guid>
+      <guid>https://mhaidli.github.io/publications/2024-01-01-vrmepaper/</guid>
       <description>This is a high level summary of the paper. It is deliberately informal, casual, and only talks about the high level points from the paper. For full details about the study, please refer to the full paper, which can be found here.&#xA;Motivation of Study The goal of this study was to get a better understanding of how VR ads could be harmful. There has already been work studying and thinking about VR advertising and how they can hurt users (incluing some of my own work).</description>
     </item>
     <item>
       <title>We Cant Live Without Them! App Developer&#39;s Adoption of Ad Networks and Their Considerations of Consumer Risks</title>
-      <link>https://example.org/publications/2019-05-05-wecantlivewithoutthem/</link>
+      <link>https://mhaidli.github.io/publications/2019-05-05-wecantlivewithoutthem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/publications/2019-05-05-wecantlivewithoutthem/</guid>
+      <guid>https://mhaidli.github.io/publications/2019-05-05-wecantlivewithoutthem/</guid>
       <description></description>
     </item>
   </channel>
