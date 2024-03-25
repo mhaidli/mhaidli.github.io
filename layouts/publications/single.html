@@ -1,0 +1,39 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+{{ if .Params.fullcitation}}
+<p style="text-align:left;">Weblink: {{.Params.weblink | markdownify}}</p>
+{{ end }}
+<p style="text-align:left;"><b>{{.Params.title | markdownify}}</b></p> 
+<p style="text-align:left;">{{.Params.authors | markdownify}}, {{.Params.venue | markdownify}}. {{.Params.writtenyear | markdownify}}.</p>
+{{ if .Params.weblink}}
+<p style="text-align:left;">Weblink: {{.Params.weblink | markdownify}}</p>
+{{ end }}
+{{ if .Params.localpdf}}
+<p style="text-align:left;">PDF: <a href="{{.Params.localpdf | markdownify}}">{{.Params.localpdf | markdownify}}</a></p>
+{{ end }}
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+{{ if .Params.date }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
+</div>
+
+{{ if .Params.toc }}
+  {{ with .TableOfContents }}
+  <div id="table-of-contents">
+    <h2>Table of Contents</h2>
+    {{ . | safeHTML }}
+  </div>
+  {{ end }}
+{{ end }}
+
+
+<div class="content-wrapper">
+  {{ if .Params.lastupdated}}
+<p style="text-align:left;"><i>Last Updated: {{.Params.lastupdated | markdownify}}</a></i></p>
+{{ end }}
+  <main>
+    <div style="font-size: 0.9em">
+    {{ .Content }}
+  </div>
+    <a href="/"> >> Home</a>
+  </main>
+</div>
+{{ partial "footer.html" . }}

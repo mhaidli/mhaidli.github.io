@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+
+<div class="content-wrapper">
+{{if not .IsHome }}
+  <h1>{{ .Title | markdownify }}</h1>
+  {{ end }}
+
+
+        <!-- {{ .Content }} -->
+        <!-- <img src="/images/mhaidli_photo_7.20.19.jpg" alt="Image 1", height="100px, width=auto"> -->
+       
+        <div class="container-index">
+            <div class="image-text-pair">
+                <div class="text-container">
+                    <p>{{ .Content }}</p>
+                </div>
+                <div class="image-container">
+                    <img src="/images/mhaidli_photo_7.20.19.jpg" alt="Image 1">
+                </div>
+            </div>
+            <!-- Add more image-text pairs as needed -->
+        </div>
+  <h2>Recent Updates</h2>
+<div></div>
+
+<ul>
+  {{ $data := site.Data.updates }}
+  {{ range $index, $item := first 3 $data}}
+  <li>{{ $item.update | markdownify }}</li>
+  {{ end }}
+  <li>For more updates, feel free to check out the <a href="/updates">updates</a> tab!</li>
+</ul>
+  
+
+</div>
+{{ partial "footer.html" . }}

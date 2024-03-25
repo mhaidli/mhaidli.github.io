@@ -1,0 +1,68 @@
+---
+- authors: Abraham Mhaidli, Yixin Zou, Florian Schaub
+  title: We Cant Live Without Them! App Developer's Adoption of Ad Networks and Their Considerations of Consumer Risks
+  type: paper
+  venue: Symposium on Usable Privacy and Security (SOUPS)
+  weblink: https://www.usenix.org/conference/soups2019/presentation/mhaidli
+  writtenyear: 2019
+
+- authors: Abraham Mhaidli, Selin Fidan, An Doan, Gina Herakovic, Mukund Srinath, Lee Matheson, Shomir Wilson, Florian Schaub
+  localpdf: /papers/ResearchersPrivacyPoliciesPreprint.pdf
+  title: 'Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities'
+  type: paper
+  venue: Privancy Enhancing Technologies (PETS) 2023
+  weblink: https://doi.org/10.56553/popets-2023-0111
+  writtenyear: 2023
+  
+- authors: Abraham Mhaidli, Jordan Cundiff, Libby Hemphill, Florian Schaub, Andrea Thomer
+  localpdf: /papers/PrivacyImpactAssessmentForDigitalRepositories.pdf
+  title: Privacy Impact Assessments for Digital Repositories
+  type: paper
+  venue: International Journal on Digital Curation (IJDC)
+  weblink: https://doi.org/10.2218/ijdc.v15i1.753
+  writtenyear: 2022
+  
+- title: Identifying Manipulative Advertising Techniques in XR Through Scenario Construction
+  authors: Abraham Mhaidli, Florian Schaub
+  venue: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI)
+  weblink: https://dl.acm.org/doi/10.1145/3411764.3445253
+  localpdf: /papers/CHI_2021_XR_Advertising_Manipulation.pdf
+  writtenyear: 2021
+  type: paper
+
+- title: "Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls"
+  authors: Abraham Mhaidli, Manikandan Kandadai Venkatesh, Yixin Zou, Florian Schaub
+  venue: Proceedings on Privacy Enhancing Technologies (PoPets)
+  weblink: https://content.sciendo.com/view/journals/popets/2020/2/article-p251.xml
+  writtenyear: 2020
+  type: paper
+
+- title: Keeping a Low Profile? Technology, Risk and Privacy among Undocumented Immigrants
+  authors: Tamy Guberek, Allison McDonald, Sylvia Simioni, Abraham Mhaidli, Kentaro Toyama, Florian Schaub
+  venue: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI)
+  weblink: https://dl.acm.org/citation.cfm?id=3173688
+  writtenyear: 2018
+  type: paper
+
+- title: It’s My Data! Tensions Among Stakeholders of a Learning Analytics Dashboard
+  authors: Kaiwen Sun, Abraham Mhaidli, Sonakshi Watel, Christopher A Brooks, Florian Schaub
+  venue: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI)
+  weblink: https://dl.acm.org/citation.cfm?doid=3290605.3300824
+  writtenyear: 2019 
+  type: paper
+
+- title: “I’ve Got Nothing to Lose”&#58; Consumers’ Risk Perceptions and Protective Actions after the Equifax Data Breach
+  authors: Yixin Zou, Abraham Mhaidli, Austin McCall, Florian Schaub
+  venue: Fourteenth Symposium on Usable Privacy and Security (SOUPS)
+  weblink: https://www.usenix.org/conference/soups2018/presentation/zou
+  writtenyear: 2018
+  type: paper
+
+- title: Energy Profiling with Alpaca
+  authors: Logan Goldberg, Joel Katticaran, Abraham Mhaidli
+  venue: Companion Proceedings of the 2016 ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications&#58; Software for Humanity (SPLASH)
+  weblink: https://dl.acm.org/citation.cfm?id=2998548
+  writtenyear: 2016
+  type: paper
+
+---

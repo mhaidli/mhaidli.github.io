@@ -1,0 +1,3 @@
+[submodule "themes/classic"]
+	path = themes/classic
+	url = https://github.com/mhaidli/hugo-classic.git
