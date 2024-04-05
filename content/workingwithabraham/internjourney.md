@@ -44,11 +44,11 @@ I wrote a guide about my advising style [here](../advisortraits) -- although the
 At a minimum, candidates must:
 * Be comfortable speaking and writing in English and conducting research in an english-speaking environment.
 * Have completed, or are pursuing, an undergraduate degree.
-* Be willing to relocate to Bochum for the duration of the internship
+* Be willing to relocate to Bochum for the duration of the internship.
 
-While the following are not required, they will greatly strengthen a candidates application: 
-* Prior research experience
-* Currently in a PhD program
+While the following are not required, they will greatly strengthen a candidate's application: 
+* Prior research experience.
+* Currently in a PhD program.
 * Background in computer science, human computer interaction, or information studies.
 
 ## How to apply
@@ -65,7 +65,7 @@ For your cover letter, please highlight:
 <!-- [Example cover letter] -->
 
 Successful cover letters:
-* **Are specific to me:** I don't want to receive a generic letter that could ostensibly be written for any other internship. Why specifically do you want to study the harms of emerging technologies? Is there something specific about either MPI-SP, Bochum, myself, or my resaerch topics that makes you consider this position? 
+* **Are specific to me:** I don't want to receive a generic letter that could ostensibly be written for any other internship. Why specifically do you want to study the harms of emerging technologies? Is there something specific about either MPI-SP, Bochum, myself, or my research topics that makes you consider this position? 
 * **Are authentic:** If I had to name one thing I want out of a candidate, it is honesty. I would much rather have a candidate be upfront about their flaws rather than someone who bluffs and pretends they have no flaws and are 548583257325x better than they actually are. 
 <!-- For me, it's more impressive I would much rather someone who acknowledges "I don't know what I want to research, but I think brain computer interfaces are cool" rather than someone who artificially creates a 7 step research program just to try and impress me. -->
 * **Are not written by ChatGPT:** There may come a day when I realize that everyone uses ChatGPT generators, so I give in and allow AI-generated applications. But today is not that day. Please don't use ChatGPT (or other LLM's / AI tools) to write your letter. Spell check tools (e.g., Grammarly) are fine, but don't generate the entire letter from ChatGPT.
