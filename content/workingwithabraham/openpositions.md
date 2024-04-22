@@ -1,11 +1,11 @@
 ---
 title: Open Positions
-lastupdated: March 1 2024
+lastupdated: April 22 2024
 draft: false
 op: "yes"
 ---
 
 
-I am currently looking for 1-2 [interns](../internjourney) to work with me during the Summer and/or Fall of 2024. For this hiring, I am hiring on an rolling basis.
+~~I am currently looking for 1-2 [interns](../internjourney) to work with me during the Summer and/or Fall of 2024. For this hiring, I am hiring on an rolling basis.~~ Thank you to everyone who has applied! I have received a lot of applications and a ton of great applicants, and I have now stopped accepting applications. If I seek to hire more interns in the future, I will update my website accordingly.
 
 I am not currently looking to hire PhD students or postdocs.

@@ -1,6 +1,6 @@
 ---
 title: What can you expect as an intern?
-lastupdated: Feb 1 2024
+lastupdated: April 22 2024
 draft: false
 ---
 
@@ -52,27 +52,28 @@ While the following are not required, they will greatly strengthen a candidate's
 * Background in computer science, human computer interaction, or information studies.
 
 ## How to apply
-To apply, please send me an email (abraham dot mhaidli at mpi-sp dot org) with the following in the subject line: Internship-YEAR-Application: YOUR_NAME (E.g., Internship-2024-Application: Abraham Mhaidli). This is a very important step: given the number of emails I receive, I use email filters to automatically sort my email into various folders, so having properly formatted subject lines increases the likelihood it will filter into the right folder and I am more likely to see it.  
+NOTE: I have stopped receiving internship applications for 2024. If I seek to hire more interns in the future, I will update my website accordingly.
 
-In the email, please provide your CV, academic transcript, 1-3 contacts who can act as references, and short cover letter (~1 page).
+<!-- To apply, please send me an email (abraham dot mhaidli at mpi-sp dot org) with the following in the subject line: Internship-YEAR-Application: YOUR_NAME (E.g., Internship-2024-Application: Abraham Mhaidli). This is a very important step: given the number of emails I receive, I use email filters to automatically sort my email into various folders, so having properly formatted subject lines increases the likelihood it will filter into the right folder and I am more likely to see it.   -->
 
-For your cover letter, please highlight:
+<!-- In the email, please provide your CV, academic transcript, 1-3 contacts who can act as references, and short cover letter (~1 page). -->
+
+<!-- For your cover letter, please highlight:
 * Why you want to work with me 
 * What your general research interests are and what types of projects you would be interested in working on. This can be as detailed or vague as you like. I by no means expect a fully fleshed research proposal: it can be as vague as saying "I am interested in studying the privacy risks of videogames."
 * Relevant skills and/or experience
-* What you are hoping to get out of the research internship 
+* What you are hoping to get out of the research internship  -->
 
 <!-- [Example cover letter] -->
 
-Successful cover letters:
+<!-- Successful cover letters:
 * **Are specific to me:** I don't want to receive a generic letter that could ostensibly be written for any other internship. Why specifically do you want to study the harms of emerging technologies? Is there something specific about either MPI-SP, Bochum, myself, or my research topics that makes you consider this position? 
 * **Are authentic:** If I had to name one thing I want out of a candidate, it is honesty. I would much rather have a candidate be upfront about their flaws rather than someone who bluffs and pretends they have no flaws and are 548583257325x better than they actually are. 
-<!-- For me, it's more impressive I would much rather someone who acknowledges "I don't know what I want to research, but I think brain computer interfaces are cool" rather than someone who artificially creates a 7 step research program just to try and impress me. -->
-* **Are not written by ChatGPT:** There may come a day when I realize that everyone uses ChatGPT generators, so I give in and allow AI-generated applications. But today is not that day. Please don't use ChatGPT (or other LLM's / AI tools) to write your letter. Spell check tools (e.g., Grammarly) are fine, but don't generate the entire letter from ChatGPT.
+* **Are not written by ChatGPT:** There may come a day when I realize that everyone uses ChatGPT generators, so I give in and allow AI-generated applications. But today is not that day. Please don't use ChatGPT (or other LLM's / AI tools) to write your letter. Spell check tools (e.g., Grammarly) are fine, but don't generate the entire letter from ChatGPT. -->
 
-Once I receive your cover letter, I will review your application. If selected, you will then move onto the interview phase.
+<!-- Once I receive your cover letter, I will review your application. If selected, you will then move onto the interview phase. -->
 
-## Interview phase
+<!-- ## Interview phase
 *NOTE: THE FOLLOWING SHOULD BE VIEWED AS ROUGH GUIDES. THE ACTUAL QUESTIONS ASKED DURING THE INTERVIEW MAY DIFFER.*
 
 I will usually carry out two interviews with candidates. They will proceed as follows:
@@ -88,7 +89,7 @@ The second interview will be mostly you asking questions for me, and it will be 
 
 The goal of these interviews is twofold. 
 First, and most importantly, it serves as a way to make sure our personalities align and we get along well. Do we have good rapport? Are our priorities and expectations aligned? Do we think we can have good working chemistry? 
-Second, it serves as a verification check. Anyone can use ChatGPT to generate a convincing sounding cover letter. Thus, the interview serves as a way for me to ask you questions and see whether you actually wrote your cover letter and if you know the topics you wrote about.
+Second, it serves as a verification check. Anyone can use ChatGPT to generate a convincing sounding cover letter. Thus, the interview serves as a way for me to ask you questions and see whether you actually wrote your cover letter and if you know the topics you wrote about. -->
 
 
 
