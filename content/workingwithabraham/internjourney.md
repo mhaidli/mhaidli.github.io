@@ -1,6 +1,6 @@
 ---
 title: What can you expect as an intern?
-lastupdated: April 22 2024
+lastupdated: October 16 2024
 draft: false
 ---
 
@@ -52,7 +52,7 @@ While the following are not required, they will greatly strengthen a candidate's
 * Background in computer science, human computer interaction, or information studies.
 
 ## How to apply
-NOTE: I have stopped receiving internship applications for 2024. If I seek to hire more interns in the future, I will update my website accordingly.
+Please see https://www.cis.mpg.de/internships/ for details. While in the application letter it says that Motivational letters are optional, if youw ant to work with me, the motivational letter is highly encouraged. THe application deadline is November 1st.
 
 <!-- To apply, please send me an email (abraham dot mhaidli at mpi-sp dot org) with the following in the subject line: Internship-YEAR-Application: YOUR_NAME (E.g., Internship-2024-Application: Abraham Mhaidli). This is a very important step: given the number of emails I receive, I use email filters to automatically sort my email into various folders, so having properly formatted subject lines increases the likelihood it will filter into the right folder and I am more likely to see it.   -->
 
