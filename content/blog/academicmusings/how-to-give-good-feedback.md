@@ -7,7 +7,9 @@ type: academic
 lastupdated: January 15th 2025.
 ---
 
-One thing that was done in my alma matter, and which I try emulating in academic spaces I am in, is a paper swap session. Different people, all working towards the same deadline, exchange papers and provide feedback on how to improve the paper, where it's making a certain argument clearer, bringing in additional literature, or how to make the paper more concise. Inevitably when organizing these sessions, someone always asks:
+One thing that was done in my alma matter, and which I try emulating in academic spaces I am in, is a paper swap session. Different people, all working towards the same deadline, exchange papers and provide feedback on how to improve the paper, where it's making a certain argument clearer, bringing in additional literature, or how to make the paper more concise. Great for getting feedback on your papers and bonding with everyone else in your department.
+
+Inevitably when organizing these sessions, someone (particularly young and junior academics) will ask:
 
 > But Abraham! I am but a novice in the world of academia. I have never given feedback on a paper, how do I go about doing so?
 
@@ -16,14 +18,14 @@ This is a fair question. My first response is to point them to the various resou
 In this blog post, I try to write a more granular, detailed guide for how to give feedback on a paper. The primary audience are those who are early in their academic journeys, and those insecure on how to give feedback, but I hope everyone will benefit from this! Furthermore, this is written from the point of view of someone in the Human Computer Interaction field. other fields and disciplines may have other ways of providing feedback.
 
 
-## First, leave the impostor syndrome at the door
+## Before starting, leave the impostor syndrome at the door!
 The first thing to get out of the way is that a lot of first-time feedbackers can feel insecure or unsure of the feedback they provide. They may feel they do not know enough, or are not experienced enough, to provide useful insights into a paper.
 Let's get this out of the way. If you have done, are doing, or have thought of doing research, your opinion on a paper is valid. You are the paper's intended audience, and so, any opinion of yours, positive or negative, is valid.
 Finally, even if your worst nightmares are true and your feedback is somehow worthless, you are giving *feedback*, not orders. It is up to the authors to decide whether to accept your feedback or not.
 
 So get your confidence going, and get your feedbacker hat on, son, because it's about to get serious!
 
-## How to give feedback
+## How to give feedback: the steps
 
 
 ### Step 1: Read and summarize the paper.
@@ -86,8 +88,8 @@ After reading the paper, write a few sentences on these prompts:
 * Does the paper clearly state what its contribution is?
 
 For guidance:
-* A good paper is one where everything makes sense, and you can easily draw a logical line between point A to point B to point C.
-* A bad paper is one full of logical fallacies, random jumps, and conclusions that are not supported by the evidence or data.
+* A good paper is one that clearly states what its main contribution is, whether that is its main findings, its main insights, or why this paper matters.
+* A bad paper leaves you wondering at the end "why did anyone write this", "who cares", and "this was a waste of time".
 
 
 ### Other areas of feedback
@@ -100,7 +102,7 @@ confusing? If there are no figures, could a figure be used to summarize their ma
 
 
 ## Advanced tips: It's all about the context
-Some advanced tips is to think about the contex tof a paper. By context I mean things beyond what is written in the paper: I am talking about who is writing the paper, where they are writing to, and so on so forth. Here are three examples of how to take context into account when giving feedback:
+An advanced tips is to think about the contex tof a paper. By context I mean things beyond what is written in the paper: I am talking about who is writing the paper, where they are writing to, and so on so forth. Here are three examples of how to take context into account when giving feedback:
 
 ### Context 1: What type feedback do the authors want?
 Whenever someone asks me to provide feedback on one of their papers, I always counter-ask what type of feedback do you want me to give? The reason I say this is because not all papers ask or require the same type of feedback. In some cases, the authors already have finished product and they just want to cut down on space. In a different paper, the authors may be concerned about motivating their problem because they are writing to a hostile audience who they are not sure is convinced by the importance of their research questions. Once you know what type of feedback the authors want, it can help you drill down on the specific areas they are asking about, meaning you can provide more focused feedback (as wella s saving you some bandwidth by focusing on a few areas!).  
