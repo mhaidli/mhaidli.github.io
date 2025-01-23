@@ -27,7 +27,6 @@ So get your confidence going, and get your feedbacker hat on, son, because it's 
 
 ## How to give feedback: the steps
 
-
 ### Step 1: Read and summarize the paper.
 The first step is to read the paper from start to finish, without looking out for flaws or critiques. Just read it. Then, summarize the paper in 2-3 sentences.
 
@@ -36,7 +35,7 @@ This is useful because it helps you get the full context of the paper, as well a
 Moreover, if you then give this summary to the authors, it can be helfpul for them too. By summarizing what you think the paper is about, the authors can contextualize the feedback accordingly, and know what areas to tackle. For example, if they conducted an ethnography, but my summary says "The authors ran an experiment", then clearly there is some mistranslation going on and the authors need to make their method clearer. 
 
 ### Step 2: Give feedback
-The next step is to go through the paper and give feedback on it. Ok this is a bit too broad. Basically, you want to write down aspects of the paper you liked and aspects that you didn't like. Feedback is in the eye of the beholder: anything you want to mention, you can (and should!), ranging from to even low level like the number of typos and such.
+The next step is to go through the paper and give feedback on it. Ok this is a bit too broad. Basically, you want to write down aspects of the paper you liked and aspects that you didn't like. Feedback is in the eye of the beholder: anything you want to mention, you can (and should!), ranging from high level "what is the point of the paper" to even low level like the number of typos and such.
 
 For those seeking a bit more guidance, the way I think about this is there are four main categories of feedback you can give: (1) writing; (2) prior work; (3) logic / argumentation; and (4) contribution. For each area of feedback, I give several questions you ask yourself and should write about.
 
@@ -131,9 +130,6 @@ Feedback with a **2** is important feedback. Doing this will fix the paper, but 
 Feedback with a **3** is my own opinion. It is my own preferred style of doing things, but, and the authors can easily ignore this. For example, when writing reports of an interview study, I like highlighting quotes in italics so they stand out in the paper.
 
 Feedback with a **4** is additional notes that isn't necessarily feedback or something to do with the paper, but rather, miscellaneous thoughts that appeared after reading the paper. For example, "This makes me think of a cool follow-up study involving squirrels and the quantum computing".
-
-
-
 
 ## Resources
 
