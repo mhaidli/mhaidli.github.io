@@ -3,6 +3,7 @@ title: Abraham's guide to giving conference talks
 lastupdated: January 21 2025
 draft: false
 type: academic
+mediumLink: https://medium.com/@abraham.mhaidli/abrahams-guide-to-giving-hci-conference-talks-61be72f50562
 ---
 
 This is a guide on how to give conference talks. As someone who loves public speaking and loves giving conference talks, I was surprised by how many people loathe and/or fear public speaking (75% of people fear public speaking as their number one fear [[1]](https://www.mentalhealth.com/library/what-we-fear-more-than-death)). Thus, I created this guide in the hopes of easing people's fears and improving the state of conference talks!

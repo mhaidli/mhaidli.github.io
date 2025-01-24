@@ -1,0 +1,44 @@
+{{ partial "header.html" . }}
+
+<!-- <div class="content-wrapper">
+{{if not .IsHome }}
+<h1><span class="title">Latest Publications</span></h1>
+  {{ end }} -->
+
+  <div class="article-meta">
+<h1><span class="title">{{ .Title | markdownify }}</span></h1>
+  </div>
+  
+  {{ if .Params.toc }}
+    {{ with .TableOfContents }}
+    <div id="table-of-contents">
+      <h2>Table of Contents</h2>
+      {{ . | safeHTML }}
+    </div>
+    {{ end }}
+  {{ end }}
+
+  
+
+  {{ if .Params.mediumLink}}
+  <p style="text-align:left;"><i><a href="{{ .Params.mediumLink }}">Medium link here</a></i></p>
+  {{ end }}
+  {{ if .Params.lastupdated}}
+  <p style="text-align:left;"><i>Last Updated: {{.Params.lastupdated | markdownify}}</a></i></p>
+  {{ end }}
+  
+  {{ .Content }}
+  <ul>
+     {{ $pages := .Pages }}
+     {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+     {{ $sortedPages := sort (where .Pages "Section" "publications") "Params.writtenyear" "desc" }}
+    {{ range $sortedPages }}
+     <li>
+       <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+       ({{ .Params.writtenyear | markdownify }})
+     </li>
+     {{ end }}
+   </ul>
+</div>
+{{ partial "footer.html" . }}
+
