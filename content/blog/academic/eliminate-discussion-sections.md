@@ -6,15 +6,17 @@ type: academic
 mediumLink: 
 ---
 
-I recently completed a research study and submitted it for publication at a peer-reviewed conference. After a few rounds of review, it got rejected. This isn't atypical in a scientist's life: you submit papers, sometimes they get accepted, sometimes they do not. However, the reason for rejection really struck a nerve. It wasn;t rejected because it was bad science. It wasn't rejected because my methodology was flawed, my experiments were biased, my data was misleading, or anythign like that. In fact, all reviewers agreed that the science and methodology were top notch.
+_Note: The opinions in this article are from the viewpoint of someone in human computer interaction fields. Other fields may alreay have this in place._
+
+I recently completed a research study and submitted it for publication at a peer-reviewed conference. After a few rounds of review, it got rejected. This isn't atypical in a scientist's life: you submit papers, sometimes they get accepted, sometimes they do not. However, the reason for rejection really struck a nerve. It wasn't rejected because it was bad science. It wasn't rejected because my methodology was flawed, my experiments were biased, my data was misleading, or anythign like that. In fact, all reviewers agreed that the science and methodology were top notch.
 
 Instead, complains centered around abstract themes: the paper was not *relevant* enough, the contributions were *confusing*, the story was *unclear*, the reviewers did not *see the expected impact*, the problem was *not well-motivated enough*, and other such issues. 
 
 In other words, I had produced good knowledge and good data, but people did not really think it was a worthwhile problem to solve.
 
-It was not the first time one of my papers, and for those in the HCI world, i bet these reason with you as well. In human computer interaction, we dedicate a lot of time. When I write a paper, i would say about 25% of the time is spent writing up the study design and the findings. The vast majority of time spent on a paper is spent either in the introduction (how do I present the problem in a way that makes it seem like the most existential question in the history of mankind?), and in the discussion section (how do I convince the reviewers that my findings are the best thing since sliced bread?). 
+It was not the first time one of my papers, and for those in the HCI world, i bet you have faced a version of this comment against your work in some way or another. In human computer interaction, many papers are rejected for these rasons, and as a result, we dedicate a lot of time towards motivating the problem, articulating the contribution, and more. When I write a paper, i would say about 25% of the time is spent writing up the study design and the findings. The vast majority of time spent on a paper is spent either in the introduction (how do I present the problem in a way that makes it seem like the most existential question in the history of mankind?), and in the discussion section (how do I convince the reviewers that my findings are the best thing since sliced bread?). 
 
-I thought this was how all of science was. You spend minimal time actually studying a question, and the vast majority of time hyping up both the problem you are solving and the expected impact of your findings.
+I thought this was how all of science was. You spend some time actually studying a question, and some more time (sometimes even the majority of time) hyping up both the problem you are solving and the expected impact of your findings.
 
 But then I read a neuroscience paper. Its title eludes me, but it had the shortest introduction I had ever seen -- something along the lines of:
 
@@ -22,13 +24,11 @@ But then I read a neuroscience paper. Its title eludes me, but it had the shorte
 
 That was it. No long convoluted paragraphs about why it is of utmost importance to understand how flies react to spherical objects moving downhill, no trying to convince reviewers that this was a worthy cause, no self-aggrandizement to the point of parody -- none of that. Just _here is a question that is yet unanswered, we tried to answer it_ followed by a multi-page in-depth look at the experiments they ran and their results.
 
-It blew my mind. It was the simplest, most elegant paper I had read. I did not need to get bogged down in the life story of the . it was just here was a problem, here is why we solved it. And so that is my hot take.
+It blew my mind. It was the simplest, most elegant paper I had read. I did not need to get bogged down in the life story of the authors, the history of the world, or anything like that. It was just here was a problem, here is why we solved it.
 
-HCI should stop rejecting papers Instead, we should prioritize and judge papers primarily on rigor
+This is what lead to my hot take. 
 
-And based on that
-
-HCI should get rid of discussion sections.
+> HCI should stop rejecting papers based on relevance, expected contribution, or storyline. Instead, we should prioritize and judge papers primarily on rigor
 
 I know, fellow HCI folks, this is a controversial statement. Bare with me as I lay out my argument. I will go through three stages:
 
@@ -37,130 +37,76 @@ I know, fellow HCI folks, this is a controversial statement. Bare with me as I l
 * Common counter-arguments to this point and defenses of discussion sections, and counter arguments to these counterarguments. 
 
 
-## The issue with the status quo. But first, what even is the status quo.
+## The issue with the status quo.
 
-More motivation == fewer findings. Many venues in our field have limits to how long a paper is, whether through word count (e.g., CHI), or page length (e.g., SOUPs). Inevitably, this means that writing becomes a zero-sum game in that the more words and pages you spend on the discussion section and the introduction, the less words and pages you have to describe what you did and your findings.
-
-Encouraging scientific dishonesty. We. Impressive findings (we dove into Meta's privacy policy and found that Mark Zuckerberg is stealing your data and selling it to Palantir henchmen so they can gamble it with scientologists!) are more likely to be published than non-impressive findings (we went through Meta's privacy policy and it was kind of boring.) So if impressive findinsg are more likely to get published, and a scientists career depends on getting published, where do you think the incentives are? To tell the truth? Or to embellish it to increase the chances of getting in? But Abraham, you may be saying. Sure, outright fraud might be a step too far for many. But there are lots of smaller tricks people can do:
-
-Selectively report results to that only the impressive ones make it to the paper.
-P-Hacking, and other anomalies you can do 
-carefully omit counterarguments that would obliterate your argument, and hope the reviewrs don't get to it themselves.
-
-## Why removing these aspects would help.
-Instead, imagine the world I want to invite you to. 
+The status quo, where a large emphasis is based on storyline, perceived contribution, and relevance leads to several problems in the way that science is conducted. 
 
 
+**Papers cannot properly explain their methods or the full extent of their findings.**
+This problem stems from the fact that many venues in our field have limits to how long a paper is, whether through word count (e.g., CHI), or page length (e.g., SOUPs). Inevitably, this means that writing becomes a zero-sum game in that the more words and pages you spend on one part of the paper, the less you can spend on the other. In other words: if you spend lots of words and pages fleshing out the introduction and the discussion to make sure the story fits, the less words and pages you have to describe what you did and your findings. This means people may not be able to assess the methods you used (either to replicate your study or assess the credibility of your claims) and some important findings may be omitted.
+
+**This encourages scientific dishonesty.**
+One problem with emphasizing contribution and relevance is that surprising, weird, and amazing findings make a better story than boring, mundane findings and negative rsults. In other words: impressive findings (we dove into Meta's privacy policy and found that Mark Zuckerberg is stealing your data and selling it to Palantir henchmen so they can gamble it with scientologists!) are more likely to be published than non-impressive findings (we went through Meta's privacy policy and it was kind of boring.) So if impressive findinsg are more likely to get published, and a scientists career depends on getting published, where do you think the incentives are? To tell the truth? Or to embellish it to increase the chances of the paper getting in? But Abraham, you may be saying. Sure, outright fraud might be a step too far for many. But there are lots of smaller tricks people can do:
+
+* Selectively report results to that only the impressive ones make it to the paper.
+* P-Hacking, and other statistical trickery you can do to make stats lie. 
+* Carefully omit counterarguments that would obliterate your argument, and hope the reviewers don't get to it themselves.
+
+**We mortgage our future by focusing on the present**
+A major issue with relevance and importance is that it is incredibly short-sighted. The reviewers who appraise a study can only really imagine relevance in the here and now. Historically, that has not been the usefulness of science. Liebniz invented the binary code system in the 1700s. Did he have an idea of how relevant this would be for computing, and that his system underpins all of modern infrastructure or life? Probably not. Many modern encryption and communication algorithims are based on math that was done decades and possibly centuries earlier; and the people who invented that probably had no idea of their use. Where would we be if back in the day of Leibniz, Newton, and the like, their results had not been published because there was no immediate impact of their papers on the yield of potato crops?
+
+Per Richard Feynman, ["Physics is like sex: sure, it may give some practical results, but that's not why we do it."](https://www.goodreads.com/quotes/117534-physics-is-like-sex-sure-it-may-give-some-practical).
 
 
+**Wasted time**
+This is a bit of a personal rant. Following the paper rejection outlined above, I spent the next few weeks rewriting and re-rewriting the paper to try to make it seem 'cooler' and more relevant. Did I advance science in any meaningful way? Did I discover any new data, probe new research directions, teach young minds? No, I wasted that time convincing three random people that these findings matter.
 
-### Practice
-My first tip is unfortunately going to be rather mundane. I wish I could tell you something along the lines of:
-
-> Sleep every day at 11:00 PM to the sound of Mongolian throat signing. Wake up at exactly 3:47 AM and eat three cucumbers topped with Nutella. Immediately fall back asleep, but wake up 20 minutes later for a 3 hour run. Do this and in 57 days you will become a public speaking GOD.
-
-Instead, my advice is much more mundane, and that is to practice. The more you practice, the better you are. By practice I mean both practicing giving talks in general and practicing each individual talk. I practice each conference talk I have to give at least three times, and ideally at least twice with a finalized version. The goal is not only to improve my delivery and the content, but to become so familiar with the content of a presentation that I can almost recite it by heart. That way, when speaking, I am not scared of freezing up because even if I somehow freeze up, given that I have memorized the speech and practiced it so much, I can easily ground myself, figure out where I was, and continue from there.
-
-When practicing, I like to practice in front of an audience. Not only does this better simulate the real conference talk, but I also have a group of people who can point out flaws in my presentation. In fact, in my previous lab (SPILab), it was customary to create a shared document (e.g., a GoogleDoc) where people would write feedback, and that way you got live reactions to your content.
-
-### The who and the why
-My second piece of advice is to focus on the who and the why of the talk. Too often, when we are tasked with giving a talk, we dive immediately into what we are going to say, what parts of a study we are going to highlight, and what presentation-creating software we are going to use without really reflecting on who we're talking to and why we are talking to them. The who and the why, though, is an important factor to take into account because knowing the who and the why will greatly affect what we should be delivering and the effectiveness with which certain messages can (or cannot) be conveyed. Take the following three scenarios:
-
-* Presenting your work at an academic conference for fellow peers
-* Presenting your work as part of a job talk for heads of a department.
-* Giving an overview of your research to high schoolers to get them interested in science. 
-
-Each of these scenarios involve three different audiences with three different purposes. All three talks may be about the same study, but because they are tailored for different audiences and different purposes, then you might change how you present it. For example, at an academic conference, maybe you want other people to know of your work and cite it, so you focus more on the findings and conclusions. For a job talk, you may want to highlight a unique method that you developed to show how smart you are, so maybe you focus more on the methods part. When you're talking to high schoolers, maybe you want to motivate the problem and talk about that a lot more, as well as using simpler language. Understanding the who and the why will enable you to tailor both the content of your presentation as well as the style, in order to make it more effective, get across the message that you want to get across, and thus fulfill your goals. 
-
-### Words > Slides
-My final piece of broad advice is to focus more on what you are going to say rather than the slides. I know it is extremely tempting to work on slides. Someone tells you to talk about something, and you immediately open PowerPoint and add a bazillion cute images and fancy word fonts, and you spend hours agonizing over what theme to use. I understand the motivation. Slides are visual; words are not. You can alter the words you say on the fly, whereas there's something definitive and final about slides. However, I will be the first to say that what you say is much more important than what is on the slides. I would much rather go to a talk with an engaging speaker and the most boring slides in the universe than someone with amazing slides who is barely audible. Remember, public speaking predates PowerPoint: in fact, there is a whole genre of public speaking (i.e., speeches) that do not rely on PowerPoint or visual cues at all, and are still engaging and interesting.
-
-Thus, I advise you to prioritize and spend more energy on what you are going to say rather than the slides. For me, I take the "words > slides" to an extreme in that the first thing I do is to write out verbatim what I'm going to say, and only then do I focus on creating slides and structuring them around my content. 
+This does not only apply to my isntance, but more broadly. Be honest. How much time and energy do you spend making sure the introduction and discussion section are just right? And isn't that time, effort, and energy that could be better spent on doing actual science?
 
 
-## Tips on content
+## My utopia
+Instead, imagine the world I am inviting you into. One where the storyline and contribution only matter a minimal amount. Instead, the primary focus of a paper's strength is based on its methodological rigor. Do the methods make sense given the research question the paper is trying to answer? Were the methods conducted well, or conducted sloppily?
 
-### Signpost
-Since we live in an AI hellscape, I asked ChatGPT what a signpost is, and it answered the following:
+I am not arguing completely removing any form of relevance or contribution. A paper needs to be somewhat related to the venue it is being submitted to (an HCI venue should not review a treatise on the impact of roman mythology on medieval england's Magna Carta). And it has to have some findings. And it has to be a problem that hasn't already been answered 190548743257 times before (or it can, but then it has to clearly be labelled as a replication study). But it is vastly minimized, and barring a paper that goes completely off the rails, it is not a reason for rejecting a paper. Introductions are 1-2 paragraphs at most, discussion sections focus primarily on explaining anomalies or unexplained issues in the findings. Authors can have their 'Implications for design' section should they wish, but they are not required to.
 
-"In a literal sense, a signpost is a physical sign or marker, often used on roads, trails, or in public spaces, to provide directions, distances, or information. For example:
+This would have the following benefits:
 
-* A street sign telling you which way to go.
-* A hiking trail marker indicating the trail's difficulty or destination." (Source: ChatGPT)
-
-In public speaking, though, a signpost is you letting the listeners know where you are in the presentation, what you will be talking about next, and how much time is left in the presentation. This is invaluable for presentations that are long (i.e., longer than 20 minutes.) It helps people reset and prevents people from wondering "Oh dear Lord how long is this person going to keep yapping on for?"
-
-There are many ways you can signpost during an academic talk. You can put an outline at the beginning and constantly refer back to it. You can put a progress bar at the bar. You can put section headers. The options are endless, but the crucial thing is letting people know where they are at, where they are going, and how much time is left.
-
-### Less text (Slides =/= Speaker notes)
-The next piece of advice is one you've probably heard of before, but it bears repeating: have as few words on your slides as possible. One key thing people forget is that slides are not your speaker notes. Your slides should contain the bare minimum number of words so that people can roughly follow your point, and you expand on those words with your oral presentation. In fact, if possible, try not to use any words at all. They say a picture is worth 1000 words, and if using images means you can get rid of words, then the better.
-
-![An image of a large screen with the word POINT written in large letters. Next to the screen is a person in a podium with a speech bubble saying Point Point Point Point Point](/images/point-public-speaking.png)
+* More space for method and findings: Papers can now dive deep into their method sections and their findings. 
+* 
+* 
+* 
+* 
 
 
-### No "Thank You" slides
-The final piece of advice I will give is to not have a final thank you slide. There's nothing wrong with a thank you slide, but it is a huge wasted opportunity. The final slide is the slide people will leave away with, the one they will be staring at during the Q&A, and the one that they will remember to take a picture of. Don't just have a thank you. Put in the following:
+## Counterarguments
 
-* The main points you want them to leave, 2-3 max
-* Your contact information
-* A picture of you
-* If presenting a paper, consider adding a webpage or a QR code that links to it
+**This will lead to a lot of papers with zero meaningful contributions being published**
+Contribution is in the eye of the beholder. There is no thing that is 'objectively' a big or a small contribution. Clearly at least one person thought the paper had a meaninful contribution (i.e., the person who conducted the study in the first place). Someone else could think the contribution is important. Thus, I do not think it is wise to block what a minority of people would consider important based on what the majority would consider to be not important.
 
-And you can even include a thank you message in the slide. But don't *just* add a Thank You. Add the other information as well! 
+Furthermore, this ties back in to the issue I mentioned before that we are kneecapping our future by focusing on short-termism. A paper might have a seemingly minor contribution in 2026 but whose importance may only become apparent in 2090. I do not see publication of papers that make a minor contribution as a problem.
 
-
-![An image of two powerpoint slides. The first has thank you, with text accompanying the slide saying "Wait that is it?". The second slide has detailed information (including a summary of a paper, a web link for the paper, and an image of an alpaca) and text accompanying the slide saying "Such a good and concise summary. I will be sure to remember that!"](/images/good-versus-bad-thank-you-slides.png)
+Finally, there is already a mechanism for prioritizing papers with more meaningful contributions: the grant application process. Studies often get funded by grants. When applying for a grant, a committee evaluates your application and judges it based on, among other factors, the expected contribution of the project. Thus there is already at some level a basic level of prioritization for projects that have more contributions. Adding it to the paper process as well as the grant application process is overkill in my opinion. If the work is done well, it should be allowed out there
 
 
+**Academia already suffers from excessive publishing of papers. Without being able to reject papers based on relevance, the floodgates will open and we will be drowned in useless slop**
+This is a legitimate concern, but then I have a solution. Start raising the bar extremely high for rigor. Don't gatekeep papers on whether they are well motivated enough, we should gate-keep papers based on whether the method makes sense, whether it was conducted thoroughly, whether sample sizes are large enough, whether the constructs make sense, etc. If we radically raise our standards for academic rigor, we will not only prevent the floodgates from opening, but we will also ensure that papers that do get published actually produce important knowledge.
 
 
-## Tips on delivery
-Along the lines of words being more important than what you say, another underrated part is delivery. How you say words matters just as much as what you are saying. What is the point of the best research presentation ever if no one can hear it? Thus, here is some tips focusing on the delivery.
+**How will we know what papers to focus on?**
+The fact that a paper is published is not the only way that news of a paper spreads. Papers that have more 'impact' and are more 'relevant' will get cited more, more people will talk about them, 
 
-### Mic check!
-First, before starting to speak, always do a mic check. I tend to ask, "Can folks in the back hear me?" and wait for approval before continuing. This avoids the embarrassing moment where, five minutes into the presentation, someone finally raises their hand to tell you they haven't been hearing you the entire time and asked you to please restart. Moreover, it helps you adjust your speaking volume.
+**But convincing scientists about the importance of your work is an important part of science and a skill that should be developed and reinforced.**
+Here it's a case of agree to disagree. I think the main value of a scientist should be to establish truth about the world, not to debate three other people that the truth you have uncovered is more important truth than some other truth. Maybe in other fields the art of convincing someone of the importance of what you are doing is needed, but I disagree.
 
-### Embrace the pauses. Reject the fillers.
-When we are up on stage, something interesting tends to happen. We feel that we need to talk, and so, if we are not talking, we are failing at our jobs. Thus, we fill out every possible second with talking, talking, more talking, even when it doesn't make sense and we're not saying anything meaningful, and we're just using fillers.
-
-This is where I have to tell you: pauses are okay. No one expects you to be Eminem and spit 10,000 words a minute. In fact, pauses are not just OK; you can use them for dramatic effect! You can use them to emphasize a point, build up anticipation for a concluding sentence, and so much more. Aesthetically, a pause is so much better than an "um" or an "eh" or an "uhh"... Embrace the pauses. They let you think about where to go next and let you reset, as well as letting the audience ponder about what you're saying. It also makes you seem wise! Now, this does not mean you get to take 30 second pauses between words. But the occasional brief pause is not only ok, but it can elevate your presentation skills to the next level.
-
-### ~~Don't~~ Look up!
-When delivering the speech, make sure not to just look down at your notes. Not only does this look strange, it also means that your voice is projected to your laptop / notes document (instead of the audience). Look up at the audience often, and make sure to change who you are staring to every time. This is where practice comes in handy: if you have practiced your speech enough so that you have basically memorized the entire thing, you won't need to look at your notes as much. But even in cases where you have not memorized it perfectly, you can still look up and deliver. You should first look at your notes, memorize the sentence while saying the first few words, and then look up and complete the sentence. This is where pauses are important. Deliver a point, use a pause for emphasis, and while the audience is busy taking in the magnitude of whatever insight you have shared, you quickly scan ahead and memorize the next nugget of wisdom to share with the crowd. 
-
-### Avoid the monotony.
-Next up, try to avoid being monotone. Feel free to change your tone of voice and the speed as you talk. Start quiet, speed up and get louder, pause for dramatic flair, deliver a jaw-dropping truth bomb. Speaking in monotone puts people to sleep. Remember, you are *talking* to your audience, not reading to them.
-
-### Audience interaction? At a minimum.
-When I look online at advice for giving presentations, something I often find is a lot of people saying "Oh, you should interact with the audience. You should ask questions of the audience. You should engage in audience participation". I understand the temptation: when done well, audience interaction works *really* well. Everyone remembers that presentation where the author bantered with the audience and got the audience hooked into whatever they were saying. However, my advice runs a bit counter than that. Sure, if audience interaction works out, it can be amazing. A *failed* audience interaction, however, is one of the most horrible, cringe-worthy, embarassing thing ever. Nothing is more awkward than a presenter asking a question of an audience who is tired, does not want to be there, and would much rather be at the beach. No one answers, the presenter does not know what to do, everyone feels bad for the presenter, and it's just a rough time for everyone. Thus, my advice is the opposite: stay away from audience interaction, or more accurately, don't force it. Sure, if you're feeling it, if you are motivated, if you feel the audience has energy, then engage with it. It can definitely elevate your presentation. But don't force it. If it's not natural to you, if the moment doesn't feel right, it's much better to have no audience interactions. Plenty of speeches or public speaking presentations don't have audience interactions and are still great, memorable and get their point across. Be cautious when engaging with the audience, and don't wedge it in there when it doesn't belong.
-
-## Handling Q&A
-Handling Q&A could be a whole blog post in itself. It can be the most nerve-wracking part of any presentation because, unlike the speech (which you can prepare for), the Q&A doesn't depend on you, and you don't know what curveballs the audience may throw at you. Plus, there is the fear of the nefarious ******* who just gets up and says, "You are stupid", and sits down. So, what tips can we use to handle the Q&A?
-
-My first piece of advice is that while you cannot fully predict Q&A, you can still practice it. You can still anticipate roughly what types of questions people may ask, and this is possible if you practice in front of an audience. If you are presenting at an academic conference, invite some of your colleagues from your department to sit in and listen to your talk, and ask them to pretend they are at the conference and ask real questions. The questions that they have will likely be similar to the questions that the real audience will have.
-
-OK, what if it's a question you haven't anticipated? The first thing is you don't feel obligated to dive straight into answering. Remember, pauses are cool. You can take a breath and think about it. And if you need some time to think about it, one useful trick that I use is to reformulate the question. For example:
-
-Audience Member: Thank you for the presentation! I wonder if you could speak a little bit more about why you think there are discrepancies between people with CS degrees and those without CS degrees in their answers to the survey.
-
-Me, *wanting to buy time*: Hmm let me rephrase your question to make sure I am getting it right. So you are asking what I think causes the difference in the scores between people who have not studied CS and those who have?
-
-Audience member: Yes.
-
-Me, *having used those extra 8 seconds to think of the perfect answer*: [THE MOST AMAZING ANSWER IN THE PLANET]
-
-You can also buy time for thanking people for their questions (but don't do this on every question; otherwise, it looks obvious that you are not really thanking them and are just buying time.)
-
-What if you get a question you either can't answer (because it is too difficult) or one that you shouldn't answer (because it is bad faith and mean spirited)? Here is the golden rule:
-
-"Thank you for that question. Unfortunately, I cannot answer that right now, but I would be happy to follow up offline".
-
-And move on to the next person. If they keep insisting? Be gentle but firm:
-
-"Thank you, but in the interest of time, I must insist on moving along. Do not worry, I will address your question offline".
-
-And if they keep pestering you? Well, (A) this never happens and (B) if it does, let them ramble. Everyone in the audience can see that they are the ones being unreasonable (not you), so stand tall and firm as they drive their own reputation into the ground, using their pauses to repeat the statement above.
+I want to caveat, I do think that communicating your ideas to the general public is important. But that does not happen in papers. Papers are meant for scientists, and the public often doesn't read them, both due to cultural and institutional barriers. There are other venues to reach the public (blog posts, books, interviews, talks),  and there scientists should articulate clearly the contribution and importance of their work. But in those arenas.
 
 
-## Conclusion
-I hoped I would have something witty to end this guide with, but alas, I do not. I expect to update this as I get better at giving public presentations, but until then, I hope this was useful!
+**Then let these 'crappy' papers be published at lower-tier venues, and reserve the premium high-impact papers for the premium high-impact venues.**
+The idea that there can be 
+
+**You are just arguing gor this because your papers get rejected on these grounds and you are bad at articulating your contributions.**
+That is correct. It is also a logical fallacy (ad hominem attack) and doesn't really contradict my argument -- the fact that I am making this argument primarily because I am petty about my papers getting rejected for BS reasons doesn't mean that my argument is flawed. Attack the argument, not the human. It would be like CHI establishing a process whereby to get a paper accepted you need to run a sub-4 hour marathon, and when someone complains, the CHI committee responds "Well you're just saying that because you suck at running marathons."
+
+**How will people know how to interpret my findings or what to do with them?**
+
+**ADSA**
