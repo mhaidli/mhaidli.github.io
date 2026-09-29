@@ -6,6 +6,7 @@ category: guide
 type: academic
 lastupdated: January 24th 2025.
 mediumLink: https://medium.com/@abraham.mhaidli/how-to-give-good-feedback-on-an-hci-paper-1f36ae765476
+date: 2025-01-24
 ---
 
 One thing that was done in my alma mater and which I am trying to emulate in my current academic environment is a paper swap session. Different people, all working towards the same deadline, exchange papers and provide feedback on how to improve the paper, whether it's making a certain argument clearer, bringing in additional literature, or how to make the paper more concise. Great for getting feedback on your papers and bonding with everyone else in your department.

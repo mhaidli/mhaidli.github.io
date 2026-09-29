@@ -22,7 +22,7 @@
 
   <h2> Academic Blog Posts</h2>
   <ul>
-     {{ $pages := .Pages }}
+     {{ $pages := .Pages.ByDate.Reverse }}
     {{ range $pages }}
     {{ if eq .Params.type "academic" }}  <!-- Done to eliminate the open positions tab from the list of available links -->
      <li>
@@ -32,5 +32,20 @@
      {{ end }}
    </ul>
 </div>
+
+
+  <h2> Personal Blog Posts</h2>
+  <ul>
+     {{ $pages := .Pages.ByDate.Reverse }}
+    {{ range $pages }}
+    {{ if eq .Params.type "personal" }}  <!-- Done to eliminate the open positions tab from the list of available links -->
+     <li>
+       <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+     </li>
+     {{ end }}
+     {{ end }}
+   </ul>
+</div>
+
 {{ partial "footer.html" . }}
 

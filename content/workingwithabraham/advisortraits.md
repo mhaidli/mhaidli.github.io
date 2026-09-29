@@ -34,7 +34,7 @@ Weaknesses
 * **Difficulty being strict:** The flip side of embracing kindness and compassion is that sometimes it can be difficult for me to be tough on students when I need to be. Some students prefer, and benefit from, no-nonsense bosses who are not afraid to mince words and say "Your work output is garbage, improve". Some students benefit from strict external motivation that pushes students to work harder. I have a hard time doing that. I am the type of person to [sandwich](https://www.betterup.com/blog/feedback-sandwich) feedback, and I have a hard time telling someone off because I fear crushing the student. I am actively working on recognizing when I need to be strict and when I need to be gentle, but it is a process I am still working on.
 * **Lack of experience:** I am early-career faculty, meaning that I have not had the chance to mentor many PhD students. I have mentored undergraduate and graduate students as interns in the past, but I don't have experience with guiding soemone throughout a full PhD journey.
 
-Sound good so far? For more information about my research philosophy, please check out my [research philosophy page](../../../blog/academicmusings/researchphilosophy/). 
+Sound good so far? For more information about my research philosophy, please check out my [research philosophy page](../../../blog/academic/researchphilosophy/). 
 
 
 
