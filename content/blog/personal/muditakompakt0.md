@@ -1,13 +1,15 @@
 ---
 title: "My Mudita Kompakt Journey: Entry 0"
 lastupdated: October 8th 2026
-draft: true
+draft: false
 date: 2026-09-27
 type: personal
 ---
 
+**TLDR: The start of my baby steps with digital minimalism**
 
-I have a severe addiction to my phone. I spend close to 3-4 hours per day just doomscrolling on my phone, mostly on Instagram and YouTube. I would not say this severely interferes with my life, but it does take up valuable time and I notice it has a negative impact on my life -- mostly on my mood and my sleep. More worringly was that when I tried to stop, I couldn't. I would get anxious, restless, and sooner or later I would find myself back on the phone without fully knowing when exactly I had made the conscious decision to use it.
+
+I have a severe addiction to my phone. I spend close to 3-4 hours per day just doomscrolling on my phone, mostly on Instagram and YouTube. I would not say this severely interferes with my life, but it does take up valuable time and energy. Moreover, I notice it is having a negative impact on my life -- mostly on my mood and my sleep. More worringly was that when I tried to stop, I couldn't. I would get anxious, restless, and sooner or later I would find myself back on the phone without fully knowing when exactly I had made the conscious decision to use it.
 
 
 This prompted me to look for a solution. My first instinct was behavioral (uninstall Youtube and Instagram), but I ended up using the phones' browser to access these services anyway. My next step was to use a variety of apps designed to limit my smartphone usage. This included apps and settings to set daily caps on app usage, as well as launchers that changed the layout of the screen in order to make it less colorful and the apps less accessible (e.g., [OLauncher](https://play.google.com/store/apps/details?id=app.olauncher&hl=en) and [minimalist phone](https://play.google.com/store/apps/details?id=com.qqlabs.minimalistlauncher&hl=en)).
