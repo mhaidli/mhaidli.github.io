@@ -1,8 +1,8 @@
 ---
 title: "My Mudita Kompakt Journey: Entry 1"
-lastupdated: October 8th 2026
+lastupdated: October 27th 2026
 draft: false
-date: 2026-09-21
+date: 2026-10-27
 type: personal
 ---
 
